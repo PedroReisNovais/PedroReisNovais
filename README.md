@@ -36,12 +36,9 @@ Pipeline ETL envolvendo:
 
 ## 📚 Atualmente estudando
 
-- Engenharia de Dados
-- Python aplicado a dados
-- SQL
-- ETL e pipelines de dados
-- Bancos de dados
-- Git e GitHub
+🎓 **Especialização Profissional em Engenharia de Dados — IBM | Coursera**
+
+Formação profissional focada em Engenharia de Dados, com estudos e projetos práticos envolvendo **Python, SQL, bancos de dados, ETL, pipelines de dados e ferramentas do ecossistema de dados**.
 
 ## 🎯 Objetivo
 
