@@ -1,48 +1,49 @@
 # Olá, eu sou Pedro Novais 👋
 
-### Data Engineering | Python | SQL | ETL | Automação
+### Engenharia de Dados | Python | SQL | ETL | Automação
 
 Sou profissional de tecnologia com formação em **Engenharia de Software** e MBA na área de **Dados e Gestão de TI**, atualmente direcionando minha carreira para **Engenharia de Dados**.
 
-Minha experiência profissional inclui atuação com **automação de processos, dados e integrações**, trabalhando com fluxos entre sistemas, APIs, CRM, automações e geração de informações para apoio às áreas de negócio.
-
-Atualmente estou aprofundando meus conhecimentos em Engenharia de Dados e desenvolvendo projetos práticos envolvendo **Python, SQL, ETL, manipulação de dados e bancos de dados**.
+Minha experiência profissional inclui **automação de processos, dados e integrações**, trabalhando com APIs, fluxos entre sistemas, CRM e automações. Atualmente aprofundo minha formação em Engenharia de Dados por meio de projetos práticos envolvendo **Python, SQL, ETL, bancos de dados, modelagem de dados e Linux**.
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Dados:** Python • SQL • Pandas • ETL • Modelagem e processamento de dados
+**Engenharia de Dados:** Python • SQL • Pandas • ETL • Modelagem de Dados • PostgreSQL • MySQL • SQLite
 
-**Automação e Integrações:** APIs REST • n8n • Zapier • Integração entre sistemas
+**Sistemas e Automação:** Linux • Bash • Shell Scripting • Cron • APIs REST • n8n • Zapier
 
-**Ferramentas:** Git • GitHub • Power BI • Notion • CRM
+**Ferramentas:** Git • GitHub • pgAdmin • phpMyAdmin • Power BI • Notion
 
-## 🚀 Projetos de Engenharia de Dados
+## 🚀 Projetos em destaque
 
-### 🏦 ETL — World's Largest Banks
-Projeto desenvolvido durante minha formação em Engenharia de Dados pela IBM.
+### 🏦 [IBM Largest Banks ETL Pipeline](https://github.com/PedroReisNovais/ibm-largest-banks-etl)
+Pipeline ETL desenvolvido em Python para extração, transformação e persistência de dados de grandes bancos mundiais.
 
-Pipeline ETL envolvendo:
-- Extração de dados bancários da Web
-- Processamento com Python e Pandas
-- Transformação e conversão de valores utilizando taxas de câmbio
-- Armazenamento em CSV
-- Persistência em banco de dados
-- Consultas SQL
-- Logs de execução
+**Principais práticas:** Web Scraping • Pandas • transformação de dados • CSV • SQLite • SQL • logging
 
-**Tecnologias:** Python • Pandas • SQL • SQLite • BeautifulSoup • ETL
+### ☕ [IBM Coffee Shop Database](https://github.com/PedroReisNovais/ibm-coffee-shop-database)
+Projeto de banco de dados relacional envolvendo modelagem ERD, normalização, PostgreSQL, views, materialized views e transferência de dados para MySQL.
 
-> Projeto em desenvolvimento.
+**Principais práticas:** SQL • PostgreSQL • MySQL • modelagem ERD • normalização • views • CSV
 
-## 📚 Atualmente estudando
+### 🐧 [Linux Backup Automation](https://github.com/PedroReisNovais/ibm-linux-backup-automation)
+Automação de backup em Linux utilizando Bash para identificar arquivos modificados, gerar arquivos compactados e executar backups automaticamente com cron.
+
+**Principais práticas:** Linux CLI • Bash • Shell Scripting • tar • chmod • cron
+
+## 📚 Formação atual
 
 🎓 **Especialização Profissional em Engenharia de Dados — IBM | Coursera**
 
-Formação profissional focada em Engenharia de Dados, com estudos e projetos práticos envolvendo **Python, SQL, bancos de dados, ETL, pipelines de dados e ferramentas do ecossistema de dados**.
+Formação com projetos práticos em **Python, SQL, bancos de dados, ETL, pipelines de dados e ferramentas do ecossistema de Engenharia de Dados**.
 
-## 🎯 Objetivo
+## 🌱 Próximos passos técnicos
 
-Construir soluções de dados confiáveis e automatizadas, evoluindo minha atuação profissional em **Engenharia de Dados** e desenvolvendo projetos que demonstrem aplicações práticas de pipelines, integrações e processamento de dados.
+Aprofundar a construção e orquestração de pipelines de dados e evoluir conhecimentos em **Docker, Apache Airflow, Cloud e processamento distribuído**.
+
+## 🎯 Objetivo profissional
+
+Atuar em **Engenharia de Dados**, construindo pipelines e soluções confiáveis para integração, transformação, armazenamento e processamento de dados. Minha experiência com **automação e integrações** complementa essa trajetória e amplia minha capacidade de conectar sistemas e automatizar fluxos de dados.
 
 ## 🤝 Contato
 
