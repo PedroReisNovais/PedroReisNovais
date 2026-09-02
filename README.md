@@ -26,6 +26,11 @@ Projeto de banco de dados relacional envolvendo modelagem ERD, normalização, P
 
 **Principais práticas:** SQL • PostgreSQL • MySQL • modelagem ERD • normalização • views • CSV
 
+### 🗄️ [IBM Relational Database Administration](https://github.com/PedroReisNovais/ibm-relational-database-administration)
+Laboratório de administração de banco de dados relacional com PostgreSQL, incluindo modelagem, controle de acesso, auditoria, backup, restauração e verificações operacionais.
+
+**Principais práticas:** PostgreSQL • SQL • PL/pgSQL • segurança • auditoria • backup e restore • Docker Compose
+
 ### 🐧 [Linux Backup Automation](https://github.com/PedroReisNovais/ibm-linux-backup-automation)
 Automação de backup em Linux utilizando Bash para identificar arquivos modificados, gerar arquivos compactados e executar backups automaticamente com cron.
 
