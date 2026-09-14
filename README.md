@@ -10,11 +10,16 @@ Minha experiência profissional inclui **automação de processos, dados e integ
 
 **Engenharia de Dados:** Python • SQL • Pandas • ETL • Modelagem de Dados • PostgreSQL • MySQL • SQLite
 
-**Sistemas e Automação:** Linux • Bash • Shell Scripting • Cron • APIs REST • n8n • Zapier
+**Sistemas e Automação:** Apache Airflow • Linux • Bash • Shell Scripting • Cron • APIs REST • n8n • Zapier
 
 **Ferramentas:** Git • GitHub • pgAdmin • phpMyAdmin • Power BI • Notion
 
 ## 🚀 Projetos em destaque
+
+### 🚦 [IBM Toll Data Engineering](https://github.com/PedroReisNovais/ibm-toll-data-engineering)
+Pipeline ETL orquestrado com Apache Airflow para extração, consolidação e transformação de dados de pedágio provenientes de arquivos CSV, TSV e fixed-width.
+
+**Principais práticas:** Apache Airflow • ETL • Python • Bash/Linux • DAGs • CSV/TSV • Unix data processing • Git/GitHub
 
 ### 🏦 [IBM Largest Banks ETL Pipeline](https://github.com/PedroReisNovais/ibm-largest-banks-etl)
 Pipeline ETL desenvolvido em Python para extração, transformação e persistência de dados de grandes bancos mundiais.
@@ -44,7 +49,7 @@ Formação com projetos práticos em **Python, SQL, bancos de dados, ETL, pipeli
 
 ## 🌱 Próximos passos técnicos
 
-Aprofundar a construção e orquestração de pipelines de dados e evoluir conhecimentos em **Docker, Apache Airflow, Cloud e processamento distribuído**.
+Aprofundar a construção e orquestração de pipelines de dados e evoluir conhecimentos em **Docker, Cloud, processamento distribuído e ferramentas modernas do ecossistema de dados**.
 
 ## 🎯 Objetivo profissional
 
