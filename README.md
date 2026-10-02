@@ -1,61 +1,69 @@
 # Olá, eu sou Pedro Novais 👋
 
-### Engenharia de Dados | Python | SQL | ETL | Automação
+### Dados e Automação de Processos | SQL | Python | ETL | n8n
 
-Sou profissional de tecnologia com formação em **Engenharia de Software** e MBA na área de **Dados e Gestão de TI**, atualmente direcionando minha carreira para **Engenharia de Dados**.
+Profissional de tecnologia com formação em Engenharia de Software, Gestão da Tecnologia da Informação e MBA em BI e Estratégia Data Driven. Atuo com automação de processos, integrações e dashboards, e estou direcionando minha carreira para Dados e Engenharia de Dados.
 
-Minha experiência profissional inclui **automação de processos, dados e integrações**, trabalhando com APIs, fluxos entre sistemas, CRM e automações. Atualmente aprofundo minha formação em Engenharia de Dados por meio de projetos práticos envolvendo **Python, SQL, ETL, bancos de dados, modelagem de dados e Linux**.
+Tenho experiência prática com SQL Server, APIs, fluxos entre sistemas, CRM, n8n, Zapier, Google Sheets e Power BI. Atualmente curso a Especialização Profissional em Engenharia de Dados da IBM, pela Coursera, aprofundando Python, SQL, bancos relacionais, ETL, Shell, Airflow e Kafka.
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias
 
-**Engenharia de Dados:** Python • SQL • Pandas • ETL • Modelagem de Dados • PostgreSQL • MySQL • SQLite
+**Dados:** SQL, Python, ETL, modelagem de dados, PostgreSQL, MySQL, SQLite, Pandas, Power BI
 
-**Sistemas e Automação:** Apache Airflow • Linux • Bash • Shell Scripting • Cron • APIs REST • n8n • Zapier
+**Automação e integrações:** n8n, APIs REST, webhooks, Google Sheets, Zapier, CRM, WordPress, IA aplicada a fluxos
 
-**Ferramentas:** Git • GitHub • pgAdmin • phpMyAdmin • Power BI • Notion
+**Infraestrutura e ferramentas:** Apache Airflow, Linux, Bash, Shell Scripting, Cron, Docker, Git e GitHub
 
-## 🚀 Projetos em destaque
+## Projetos de Automação
 
-### 🚦 [IBM Toll Data Engineering](https://github.com/PedroReisNovais/ibm-toll-data-engineering)
-Pipeline ETL orquestrado com Apache Airflow para extração, consolidação e transformação de dados de pedágio provenientes de arquivos CSV, TSV e fixed-width.
+### [Automação de Conteúdo SEO com IA](https://github.com/PedroReisNovais/n8n-seo-content-automation)
+Pipeline no n8n para organizar pautas, gerar conteúdo SEO e imagens com IA, preparar categorias e tags e publicar no WordPress.
 
-**Principais práticas:** Apache Airflow • ETL • Python • Bash/Linux • DAGs • CSV/TSV • Unix data processing • Git/GitHub
+**Stack:** n8n, Google Sheets, APIs, IA, WordPress REST API e JavaScript.
 
-### 🏦 [IBM Largest Banks ETL Pipeline](https://github.com/PedroReisNovais/ibm-largest-banks-etl)
-Pipeline ETL desenvolvido em Python para extração, transformação e persistência de dados de grandes bancos mundiais.
+### [Follow-up Automatizado com IA](https://github.com/PedroReisNovais/n8n-ai-follow-up-automation)
+Arquitetura de automação para organizar cadências de follow-up com regras de elegibilidade, memória de conversa e registro de status.
 
-**Principais práticas:** Web Scraping • Pandas • transformação de dados • CSV • SQLite • SQL • logging
+**Stack:** n8n, Google Sheets, PostgreSQL, OpenAI, Evolution API, loops e agendamentos.
 
-### ☕ [IBM Coffee Shop Database](https://github.com/PedroReisNovais/ibm-coffee-shop-database)
-Projeto de banco de dados relacional envolvendo modelagem ERD, normalização, PostgreSQL, views, materialized views e transferência de dados para MySQL.
+### [Automação de Categorias e Tags SEO](https://github.com/PedroReisNovais/n8n-seo-categories-tags)
+Fluxo para padronizar categorias e tags do WordPress a partir de uma planilha de planejamento editorial.
 
-**Principais práticas:** SQL • PostgreSQL • MySQL • modelagem ERD • normalização • views • CSV
+**Stack:** n8n, Google Sheets, WordPress REST API e HTTP Request.
 
-### 🗄️ [IBM Relational Database Administration](https://github.com/PedroReisNovais/ibm-relational-database-administration)
-Laboratório de administração de banco de dados relacional com PostgreSQL, incluindo modelagem, controle de acesso, auditoria, backup, restauração e verificações operacionais.
+## Projetos de Dados
 
-**Principais práticas:** PostgreSQL • SQL • PL/pgSQL • segurança • auditoria • backup e restore • Docker Compose
+### [IBM Toll Data Engineering](https://github.com/PedroReisNovais/ibm-toll-data-engineering)
+Pipeline ETL orquestrado com Apache Airflow para extração, consolidação e transformação de dados de pedágio em CSV, TSV e arquivos de largura fixa.
 
-### 🐧 [Linux Backup Automation](https://github.com/PedroReisNovais/ibm-linux-backup-automation)
-Automação de backup em Linux utilizando Bash para identificar arquivos modificados, gerar arquivos compactados e executar backups automaticamente com cron.
+**Stack:** Apache Airflow, ETL, Python, Bash, Linux e Git.
 
-**Principais práticas:** Linux CLI • Bash • Shell Scripting • tar • chmod • cron
+### [IBM Largest Banks ETL Pipeline](https://github.com/PedroReisNovais/ibm-largest-banks-etl)
+Pipeline ETL em Python para extração, transformação e persistência de dados de grandes bancos mundiais.
 
-## 📚 Formação atual
+**Stack:** Python, Pandas, web scraping, SQLite, SQL e logging.
 
-🎓 **Especialização Profissional em Engenharia de Dados — IBM | Coursera**
+### [IBM Coffee Shop Database](https://github.com/PedroReisNovais/ibm-coffee-shop-database)
+Projeto de banco de dados relacional com modelagem ERD, normalização, PostgreSQL, MySQL, views e materialized views.
 
-Formação com projetos práticos em **Python, SQL, bancos de dados, ETL, pipelines de dados e ferramentas do ecossistema de Engenharia de Dados**.
+**Stack:** SQL, PostgreSQL, MySQL, modelagem ERD, normalização e CSV.
 
-## 🌱 Próximos passos técnicos
+### [IBM Relational Database Administration](https://github.com/PedroReisNovais/ibm-relational-database-administration)
+Laboratório de administração de bancos relacionais com controle de acesso, auditoria, backup, restauração e verificações operacionais.
 
-Aprofundar a construção e orquestração de pipelines de dados e evoluir conhecimentos em **Docker, Cloud, processamento distribuído e ferramentas modernas do ecossistema de dados**.
+**Stack:** PostgreSQL, SQL, PL/pgSQL, Docker Compose, segurança e backup.
 
-## 🎯 Objetivo profissional
+## Formação atual
 
-Atuar em **Engenharia de Dados**, construindo pipelines e soluções confiáveis para integração, transformação, armazenamento e processamento de dados. Minha experiência com **automação e integrações** complementa essa trajetória e amplia minha capacidade de conectar sistemas e automatizar fluxos de dados.
+**Especialização Profissional em Engenharia de Dados - IBM | Coursera**
 
-## 🤝 Contato
+Trilha com projetos práticos em Python, SQL, bancos de dados, ETL, pipelines, administração de bancos relacionais, Shell, Airflow e Kafka.
 
-- **LinkedIn:** https://www.linkedin.com/in/pedroreisnovais/
-- **GitHub:** @PedroReisNovais
+## Objetivo profissional
+
+Atuar em Dados, BI ou Engenharia de Dados Júnior, construindo pipelines e integrações confiáveis que transformem dados em informações úteis para o negócio. Minha experiência com automação complementa essa trajetória ao conectar sistemas e reduzir tarefas manuais.
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/pedroreisnovais](https://www.linkedin.com/in/pedroreisnovais/)
+- **GitHub:** [@PedroReisNovais](https://github.com/PedroReisNovais)
